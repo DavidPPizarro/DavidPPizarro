@@ -1,15 +1,19 @@
-<div align="center">
-  <img align="right" width="400" alt="Coding" src="https://i.imgur.com/PiyhUrw.jpeg"/>
-  
-  <div align="left">
-    <h1>👨‍💻 David Pizarro</h1>
-    <h2>Desarrollador & Entusiasta de Linux</h2>
-
-    🚀 Desarrollador versátil con pasión por la innovación tecnológica  
-    🐧 Defensor del software libre y entusiasta de las 
-    🌱 Aprendizaje continuo y exploración de tecnologías emergentes  
-  </div>
-
+<table>
+  <tr>
+    <td width="60%">
+      <h1>👨‍💻 David Pizarro</h1>
+      <h2>Desarrollador & Entusiasta de Linux</h2>
+      <p>
+        🚀 Desarrollador versátil con pasión por la innovación tecnológica<br>
+        🐧 Defensor del software libre y entusiasta de las distribuciones Linux<br>
+        🌱 Aprendizaje continuo y exploración de tecnologías emergentes
+      </p>
+    </td>
+    <td width="40%">
+      <img width="100%" alt="Coding" src="https://i.imgur.com/PiyhUrw.jpeg"/>
+    </td>
+  </tr>
+</table>
   <h2>🛠️ Stack Tecnológico</h2>
 
   ### Lenguajes de Programación
