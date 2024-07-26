@@ -1,14 +1,16 @@
 <div align="center">
   <img align="right" width="400" alt="Coding" src="https://i.imgur.com/PiyhUrw.jpeg"/>
   
-  # 👨‍💻 David Pizarro
-  ## Desarrollador & Entusiasta de Linux
+  <div align="left">
+    <h1>👨‍💻 David Pizarro</h1>
+    <h2>Desarrollador Full Stack & Entusiasta de Linux</h2>
 
-  🚀 Desarrollador versátil con pasión por la innovación tecnológica  
-  🐧 Defensor del software libre y entusiasta de las distribuciones Linux  
-  🌱 Aprendizaje continuo y exploración de tecnologías emergentes  
+    🚀 Desarrollador versátil con pasión por la innovación tecnológica  
+    🐧 Defensor del software libre y entusiasta de las 
+    🌱 Aprendizaje continuo y exploración de tecnologías emergentes  
+  </div>
 
-  ## 🛠️ Stack Tecnológico
+  <h2>🛠️ Stack Tecnológico</h2>
 
   ### Lenguajes de Programación
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
