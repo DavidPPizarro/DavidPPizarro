@@ -3,7 +3,7 @@
   
   <div align="left">
     <h1>👨‍💻 David Pizarro</h1>
-    <h2>Desarrollador Full Stack & Entusiasta de Linux</h2>
+    <h2>Desarrollador & Entusiasta de Linux</h2>
 
     🚀 Desarrollador versátil con pasión por la innovación tecnológica  
     🐧 Defensor del software libre y entusiasta de las 
